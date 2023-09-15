@@ -1,6 +1,6 @@
 ---
 layout: post
-title: LNK - Will you be my dropper? (From Basic to Advanced)
+title: LNK - Will you be my dropper? 
 date: 2023-08-22 09:56:00-0400
 description: Analysis of the most used vectors for distribution
 tags: malware misc
